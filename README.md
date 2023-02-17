@@ -1,4 +1,8 @@
 ![Banner](/assets/banner.png)
+
+# Authors
+- [Andreea Fota](https://github.com/Andreea1011) | [LinkedIn](https://www.linkedin.com/in/andreea-gabriela-fota-lita/)
+- [Mihai Dinu](https://github.com/mihaidinu0) | [LinkedIn](https://www.linkedin.com/in/mihaidinu0/)
 # Project Description
 This project contains a Python script that applies various image processing effects to a video stream. The script uses several computer vision libraries including OpenCV and CuPy.
 
